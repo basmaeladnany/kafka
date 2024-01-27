@@ -1,0 +1,9 @@
+net/youssfi/demospringkafka/entities/PageEvent$PageEventBuilder.class
+net/youssfi/demospringkafka/web/PageEventController.class
+net/youssfi/demospringkafka/service/PageEventService.class
+net/youssfi/demospringkafka/serializers/CustomDeSerializer.class
+net/youssfi/demospringkafka/processors/StreamDataAnalyticService.class
+net/youssfi/demospringkafka/entities/PageEvent.class
+net/youssfi/demospringkafka/DemoSpringKafkaApplication.class
+net/youssfi/demospringkafka/service/AppSerdes.class
+net/youssfi/demospringkafka/serializers/CustomSerializer.class

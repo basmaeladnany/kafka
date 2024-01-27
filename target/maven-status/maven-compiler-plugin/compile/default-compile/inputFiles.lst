@@ -1,0 +1,8 @@
+/home/abde/Code_Projects/WebDev_Projects/JEE_Projects/JEE_Part2/Act6/kafka-spring-cloud-stream-master/src/main/java/net/youssfi/demospringkafka/serializers/CustomDeSerializer.java
+/home/abde/Code_Projects/WebDev_Projects/JEE_Projects/JEE_Part2/Act6/kafka-spring-cloud-stream-master/src/main/java/net/youssfi/demospringkafka/entities/PageEvent.java
+/home/abde/Code_Projects/WebDev_Projects/JEE_Projects/JEE_Part2/Act6/kafka-spring-cloud-stream-master/src/main/java/net/youssfi/demospringkafka/service/AppSerdes.java
+/home/abde/Code_Projects/WebDev_Projects/JEE_Projects/JEE_Part2/Act6/kafka-spring-cloud-stream-master/src/main/java/net/youssfi/demospringkafka/processors/StreamDataAnalyticService.java
+/home/abde/Code_Projects/WebDev_Projects/JEE_Projects/JEE_Part2/Act6/kafka-spring-cloud-stream-master/src/main/java/net/youssfi/demospringkafka/DemoSpringKafkaApplication.java
+/home/abde/Code_Projects/WebDev_Projects/JEE_Projects/JEE_Part2/Act6/kafka-spring-cloud-stream-master/src/main/java/net/youssfi/demospringkafka/service/PageEventService.java
+/home/abde/Code_Projects/WebDev_Projects/JEE_Projects/JEE_Part2/Act6/kafka-spring-cloud-stream-master/src/main/java/net/youssfi/demospringkafka/web/PageEventController.java
+/home/abde/Code_Projects/WebDev_Projects/JEE_Projects/JEE_Part2/Act6/kafka-spring-cloud-stream-master/src/main/java/net/youssfi/demospringkafka/serializers/CustomSerializer.java
